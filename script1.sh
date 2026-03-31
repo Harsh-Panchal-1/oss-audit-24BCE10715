@@ -4,7 +4,7 @@
 # Course: Open Source Software
 
 # --- Variables
-STUDENT_NAME="OSS Student"
+STUDENT_NAME="Harsh Panchal"
 SOFTWARE_CHOICE="Git"
 
 # --- System info
